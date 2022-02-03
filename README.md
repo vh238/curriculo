@@ -3,6 +3,8 @@
 
 ![Currículo](GIF.gif)
   
+  https://vh238.github.io/curriculo/
+  
 <img src="IV.png" width="700">
 
 </div>
